@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.4",
+    "@tailwindcss/vite": "^4.1.4",
     "autoprefixer": "^10.4.21",
     "mongodb": "^6.15.0",
     "mongoose": "^8.13.2",
